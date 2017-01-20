@@ -22,8 +22,8 @@ If you have to skip a day for some reason then when you resume, the day that you
 This is the list of people who are taking the challenge with link to their main repository.
 
 
-[Ishan Subedi](https://github.com/ikushum/100-days-of-Algorithm-Challenge)
-[Usama Hameed](https://github.com/UsamaHameed/100-days-of-Algorithm-Challenge)
+[Ishan Subedi](https://github.com/ikushum/100-days-of-Algorithm-Challenge)  
+[Usama Hameed](https://github.com/UsamaHameed/100-days-of-Algorithm-Challenge)  
 
 
 
