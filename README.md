@@ -25,6 +25,3 @@ This is the list of people who are taking the challenge with link to their main 
 [Usama Hameed](https://github.com/UsamaHameed/100-days-of-Algorithm-Challenge)  
 [Karthik RP](https://github.com/karthik-rp/100-days-of-Algorithm-Challenge)
 [Varun Upadhyay](https://github.com/varunu28/100-days-of-Algorithm-Challenge)
-
-
-
