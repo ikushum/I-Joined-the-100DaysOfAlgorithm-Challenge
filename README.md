@@ -23,7 +23,7 @@ This is the list of people who are taking the challenge with link to their main 
 
 [Ishan Subedi](https://github.com/ikushum/100-days-of-Algorithm-Challenge)  
 [Usama Hameed](https://github.com/UsamaHameed/100-days-of-Algorithm-Challenge)  
-
+[Karthik RP](https://github.com/karthik-rp/100-days-of-Algorithm-Challenge)
 
 
 
