@@ -27,4 +27,4 @@ This is the list of people who are taking the challenge with link to their main 
 [Varun Upadhyay](https://github.com/varunu28/100-days-of-Algorithm-Challenge)  
 [Sarah Randall](https://github.com/Mixolydia97/100days)  
 [Jason Chin](https://github.com/jrchindev/100-days-of-Algorithm-Challenge)
-
+[Shashank Pulagam](https://github.com/shapu/I-Joined-the-100DaysOfAlgorithm-Challenge)
