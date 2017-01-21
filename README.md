@@ -17,6 +17,9 @@ No. You can work on any set of Challenges you want. If you are not sure how to s
 #### What if we have to skip a day for some reason ?
 If you have to skip a day for some reason then when you resume, the day that you skipped will not be counted as one of your 100 days
 
+#### How many algorithms can we solve per day ? 
+There's no rush. We have an entire 100 days on our hands so one or two algorithms a day is completly fine.
+
 # List of Participants 
 
 This is the list of people who are taking the challenge with link to their main repository.
@@ -27,4 +30,7 @@ This is the list of people who are taking the challenge with link to their main 
 [Varun Upadhyay](https://github.com/varunu28/100-days-of-Algorithm-Challenge)  
 [Sarah Randall](https://github.com/Mixolydia97/100days)  
 [Jason Chin](https://github.com/jrchindev/100-days-of-Algorithm-Challenge)  
-[Henry Tran](https://github.com/hnrytrn/100-days-of-algorithms-challenge)
+[Vinod Ep](https://github.com/viep/I-Joined-the-100DaysOfAlgorithm-Challenge)  
+[Shashank Pulagam](https://github.com/shapu/I-Joined-the-100DaysOfAlgorithm-Challenge)  
+[Rutvij Dhotey](https://github.com/rutvijdhotey/100-days-of-Algorithm-Challenge)  
+[Henry Tran](https://github.com/hnrytrn/100-days-of-algorithms-challenge)  
