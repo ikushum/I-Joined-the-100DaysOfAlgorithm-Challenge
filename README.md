@@ -32,3 +32,4 @@ This is the list of people who are taking the challenge with link to their main 
 [Jason Chin](https://github.com/jrchindev/100-days-of-Algorithm-Challenge)  
 [Vinod Ep](https://github.com/viep/I-Joined-the-100DaysOfAlgorithm-Challenge)  
 
+[Shashank Pulagam](https://github.com/shapu/I-Joined-the-100DaysOfAlgorithm-Challenge)
