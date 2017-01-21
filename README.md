@@ -34,3 +34,4 @@ This is the list of people who are taking the challenge with link to their main 
 [Shashank Pulagam](https://github.com/shapu/I-Joined-the-100DaysOfAlgorithm-Challenge)  
 [Rutvij Dhotey](https://github.com/rutvijdhotey/100-days-of-Algorithm-Challenge)  
 [Henry Tran](https://github.com/hnrytrn/100-days-of-algorithms-challenge)  
+[Mudit Varma](https://github.com/tobeey/-100DaysOfAlgorithm)  
