@@ -37,3 +37,4 @@ This is the list of people who are taking the challenge with link to their main 
 [Mudit Varma](https://github.com/tobeey/-100DaysOfAlgorithm)  
 [Darpan Shah](https://github.com/dshah22/100-days-of-Algorithm)  
 [Haley Sanders](https://github.com/HFSanders/100-Days-of-Algorithm-Challenge)    
+[Ameem Shaik](https://github.com/ameem91/100-Days-of-Algorithm-Challenge)    
