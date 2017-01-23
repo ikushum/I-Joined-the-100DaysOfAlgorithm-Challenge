@@ -44,3 +44,4 @@ This is the list of people who are taking the challenge with link to their main 
 [Suraj Pai](https://github.com/surajpaib/100-days-of-Algorithm-Challenge)  
 [Joey Murphy](https://github.com/jmurp7385/100-Days-of-Algorithm-Challenge)  
 [Lauren O'neal](https://github.com/polyglotyeoja/100-Days-Of-Algorithm-Challenge)
+[Akanksha Bhardwaj](https://github.com/sashafierce/100-days-of-Algorithm-Challenge.)  
