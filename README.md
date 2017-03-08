@@ -2,7 +2,6 @@
 
 To join the Challenge read [Lets Join the #100DaysOfAlgorithm](https://ishansubedi.herokuapp.com/blog/7) and get started.
 
-
 ## FAQ:
 
 #### Who can join the Challenge ?
