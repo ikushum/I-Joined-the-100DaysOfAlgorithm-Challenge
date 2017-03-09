@@ -2,7 +2,6 @@
 
 To join the Challenge read [Lets Join the #100DaysOfAlgorithm](https://ishansubedi.herokuapp.com/blog/7) and get started.
 
-
 ## FAQ:
 
 #### Who can join the Challenge ?
@@ -46,3 +45,4 @@ This is the list of people who are taking the challenge with link to their main 
 [Lauren O'neal](https://github.com/polyglotyeoja/100-Days-Of-Algorithm-Challenge) <br />
 [Akanksha Bhardwaj](https://github.com/sashafierce/100-days-of-Algorithm-Challenge.)  
 [Surya Adhikari](https://github.com/werewolf22/100-days-of-Algorithm-Challenge)
+[Cheryl Li](https://github.com/cherylyli/100-days-of-algorithms)
