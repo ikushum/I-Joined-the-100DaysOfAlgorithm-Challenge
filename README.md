@@ -1,6 +1,6 @@
 # I joined the #100DaysOfAlgorithm Challenge.
 
-To join the Challenge read [Lets Join the #100DaysOfAlgorithm](https://ishansubedi.herokuapp.com/blog/7) and get started.
+To join the Challenge read [Lets Join the #100DaysOfAlgorithm](https://ishansubedi.com/journals/100daysofalgorithm-challenge) and get started.
 
 ## FAQ:
 
